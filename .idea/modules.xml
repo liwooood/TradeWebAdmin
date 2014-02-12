@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpringAppMVC.iml" filepath="$PROJECT_DIR$/SpringAppMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TradeWebAdmin.iml" filepath="$PROJECT_DIR$/TradeWebAdmin.iml" />
     </modules>
   </component>
 </project>
