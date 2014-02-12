@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="TradeWebAdmin:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="TradeWebAdmin.war">
+      <element id="artifact" artifact-name="TradeWebAdmin:war exploded" />
+    </root>
+  </artifact>
+</component>
